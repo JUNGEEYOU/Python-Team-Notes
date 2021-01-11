@@ -20,9 +20,11 @@
 * Python Binary Search Library
     * Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array
 * DFS 
+    * [DFS - 인접리스트](/Searching/dfs_list.py)
     * [DFS - stack](/Searching/dfs_basic.py) 
     * [DFS - recursion](/Searching/dfs_recursion.py)
 * BFS
+    * [BFS - 인접리스트](/Searching/bfs_list.py)
     * [BFS - queue](/Searching/bfs_basic.py)
 
 ### Graph

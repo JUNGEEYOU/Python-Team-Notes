@@ -35,4 +35,4 @@ for i in range(n):
                     continue
                 visited[nx][ny] = True
                 queue.append((nx, ny))
-print(count)
+print(count)   # 외딴 섬 개수
