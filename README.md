@@ -8,7 +8,7 @@
 
 ### Sorting
 
-* Selection Sort
+* [Selection Sort](/Sorting/selection.py)
 * Insertion Sort
 * Quick Sort
 * Counting Sort
