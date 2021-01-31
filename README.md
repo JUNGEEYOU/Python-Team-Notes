@@ -33,7 +33,7 @@
 ### Graph
 
 * [Dijkstra Shortest Path - 한점 > 모든 노드](/Graph/dijkstra.py)
-* [Floyd–Warshall algorithm](/Graph/floyd-warshall.py)
+* [Floyd–Warshall algorithm- 모든 노드](/Graph/floyd-warshall.py)
 * Minimum Spanning Tree (MST)
 * Topology Sort
 
