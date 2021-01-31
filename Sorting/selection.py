@@ -8,6 +8,12 @@ def selection_sort(a):
     :param a: 리스트
     :return:
     """
+    for i in range(len(a)):
+        min_index = i
+        for j in range(i + 1, len(a)):
+            if a[j] < a[min_index]:
+                a[min_index], a[j] = a[j], a[min_index]
+    print(a)
 
 
 

@@ -9,10 +9,10 @@
 ### Sorting
 
 * [Selection Sort](/Sorting/selection.py)
-* Insertion Sort
-* Quick Sort
-* Counting Sort
-* Python Sort Library
+* [Insertion Sort](/Sorting/insertion.py)
+* [Quick Sort](/Sorting/quick.py)
+* [Counting Sort](/Sorting/counting.py)
+* [Python Sort Library](/Sorting/python.py)
 
 ### Searching
 
