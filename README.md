@@ -21,8 +21,6 @@
     * [반복문을 이용한 이진 탐색](/Searching/binary_2.py) 
     * [이진탐색 모듈 사용 -  이진탐색](/Searching/binary_3.py)
     * [이진탐색 모듈 사용 -  수 범위](/Searching/binary_4.py)
-* Python Binary Search Library
-    * Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array
 * DFS 
     * [DFS - 인접리스트](/Searching/dfs_list.py)
     * [DFS - 인접행렬(stack)](/Searching/dfs_basic.py) 
