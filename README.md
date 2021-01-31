@@ -34,8 +34,8 @@
 
 * [Dijkstra Shortest Path - 한점 > 모든 노드](/Graph/dijkstra.py)
 * [Floyd–Warshall algorithm- 모든 노드](/Graph/floyd-warshall.py)
-* Minimum Spanning Tree (MST)
-* Topology Sort
+* [Minimum Spanning Tree (MST) - Kruskal Algorithm](/Graph/kruskal.py) 
+* [Topology Sort](/Graph/topology.py)
 
 * Bipartite Matching
 
